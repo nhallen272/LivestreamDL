@@ -2,7 +2,8 @@ Live Webcam Downloader
 
 Author: Nathan Allen
 
-Description: Used for the paper: Is it safer at the beach? Spatial and temporal analyses of beachgoer behaviors during the COVID-19 pandemic.Periodically downloads video from the livestream of 
+Description: Used for the paper: Is it safer at the beach? Spatial and temporal analyses of beachgoer behaviors during the COVID-19 pandemic.
+https://doi.org/10.1016/j.ocecoaman.2021.105533 Periodically downloads video from the livestream of 
              vbbound.com/live-webcam-of-virginia-beach-boardwalk
              Program will download sets of short videos from the livestream every t hours, storing them in labeled directories.
 

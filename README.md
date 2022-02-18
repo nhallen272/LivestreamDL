@@ -2,7 +2,7 @@ Live Webcam Downloader
 
 Author: Nathan Allen
 
-Description: Periodically downloads video from the livestream of 
+Description: Used for the paper: Is it safer at the beach? Spatial and temporal analyses of beachgoer behaviors during the COVID-19 pandemic.Periodically downloads video from the livestream of 
              vbbound.com/live-webcam-of-virginia-beach-boardwalk
              Program will download sets of short videos from the livestream every t hours, storing them in labeled directories.
 
@@ -11,7 +11,7 @@ Python 3
 Libraries: m3u8, requests
                                                                            
 
-Usage: First, open chrome/browser, navigate to https://www.vbbound.com/live-webcam-of-virginia-beach-boardwalk and play the stream.
+Usage: open chrome or a web browser, navigate to https://www.vbbound.com/live-webcam-of-virginia-beach-boardwalk and play the stream.
        Run python script in the interpreter.
        It will prompt for the hourly delay to download the videos and a max number of videos. 
        (If delay = 1, 1 video set is downloaded per hour. If max number = 1, 1 set of videos are downloaded)
